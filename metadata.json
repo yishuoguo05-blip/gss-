@@ -1,0 +1,8 @@
+
+{
+  "name": "Holiday Magic - Interactive 3D Tree",
+  "description": "A world-class interactive 3D Christmas tree experience featuring Three.js particles, MediaPipe gesture recognition, and customizable photo memories.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
